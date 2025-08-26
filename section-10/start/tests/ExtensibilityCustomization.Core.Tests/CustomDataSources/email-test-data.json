@@ -1,0 +1,11 @@
+{
+  "EmailData": [
+    ["user@domain.com", true],
+    ["test.email@example.org", true],
+    ["invalid-email", false],
+    ["", false],
+    ["user@domain", false],
+    ["user.domain.com", false],
+    ["admin@company.co.uk", true]
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  ["ValidInput", "Valid"],
+  ["ab", "Input too short"],
+  ["", "Input cannot be empty"],
+  ["invalid content here", "Input contains invalid content"],
+  ["AnotherValidInput", "Valid"],
+  ["TestCase123", "Valid"],
+  ["x", "Input too short"]
+]
